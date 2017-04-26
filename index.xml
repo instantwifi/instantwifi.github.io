@@ -13,7 +13,7 @@
     <atom:link href="http://www.gowi.fi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about</title>
+      <title></title>
       <link>http://www.gowi.fi/about/</link>
       <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
@@ -24,12 +24,19 @@
 
 &lt;h3 id=&#34;gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices&#34;&gt;GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user&amp;rsquo;s mobile devices.&lt;/h3&gt;
 
-&lt;p&gt;The user doesn&amp;rsquo;t have to enter any SSID and password which gives the following advantages:
- - Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time,
- - Users can&amp;rsquo;t enter the wrong password
- - You can use very long passwords which are safer
- - You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway,
- - The board can be designed as you want&lt;/p&gt;
+&lt;p&gt;The user doesn&amp;rsquo;t have to enter any SSID and password which gives the following advantages:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Users can&amp;rsquo;t enter the wrong password&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You can use very long passwords which are safer&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway,&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The board can be designed as you want&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;specification&#34;&gt;Specification&lt;/h2&gt;
 
