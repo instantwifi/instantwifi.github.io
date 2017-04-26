@@ -5,23 +5,23 @@
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>GoWi.Fi is the easiest way to access a WI-FI hot spot  &middot; GoWi.Fi</title>
+  <title>Gowi.Fi  &middot; GoWi.Fi</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
-<meta name="description" content="GoWi.Fi is the easiest way to access a WI-FI hot spot" />
+<meta name="description" content="" />
 
-<meta name="keywords" content="GoWi.Fi, WI-FI, Hot Spot, Configure WI-FI, Configure Internet, ">
+<meta name="keywords" content="">
 
 <link rel="author" href="http://plus.google.com/+Myprofile">
 
 
-<meta property="og:title" content="GoWi.Fi is the easiest way to access a WI-FI hot spot  &middot; GoWi.Fi ">
+<meta property="og:title" content="Gowi.Fi  &middot; GoWi.Fi ">
 <meta property="og:site_name" content="GoWi.Fi"/>
-<meta property="og:url" content="http://www.gowi.fi/" />
+<meta property="og:url" content="http://www.gowi.fi/tags/gowi/index.fi/" />
 <meta property="og:locale" content="en">
 
 
@@ -29,7 +29,9 @@
 
 
 
-<link rel="canonical" href="http://www.gowi.fi/" />
+<link href="http://www.gowi.fi/tags/gowi.fi/index.xml" rel="alternate" type="application/rss+xml" title="Gowi.Fi" />
+
+<link rel="canonical" href="http://www.gowi.fi/tags/gowi/index.fi/" />
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://www.gowi.fi/touch-icon-144-precomposed.png">
 <link rel="icon" href="http://www.gowi.fi/favicon.png">
 <meta name="generator" content="Hugo 0.19" />
@@ -90,57 +92,23 @@
   </header>
 
 
+<div id="main-content" class="container">
+  <header>
+    <h1>Gowi.Fi
+</h1>
 
-<div class="jumbotron-fluid" style="background-image: url('https://res.cloudinary.com/dtnahfj7l/v1493071296/ek9sz8rzpa3wobbbpx4n') ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:100vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;">
-
-<div class="container" style="padding-top: 100px;">
-    <div class="container" style="max-width: 600px;  float: left; text-shadow: 2px 1px #000;">
-        <h1><span style="color:#fff">The easiest way to access Wi-Fi</span></h1>
-    <p class="lead" style="color:#fff">
-      With GoWi.Fi, your user's mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.</p>
-    <p><button
-class="btn btn-success btn-lg"
-    data-item-id="gowifisign"
-    data-item-name="GoWi.Fi Sign"
-    data-item-price="35.00"
-    data-item-weight="100"
-    data-item-url="/"
-    data-item-stackable="false"
-data-item-custom1-name="SSID"
-    data-item-custom1-required="true"
-data-item-custom2-name="Password"
-    data-item-custom2-required="true"
-data-item-custom3-name="Color"
-data-item-custom3-options="White|Blue|Black|Red|Yellow|UV-changing"
-    data-item-custom3-value="White"
-data-item-custom4-name="Material"
-data-item-custom4-options="PLA Plastic|Bio degradable"
-    data-item-custom4-value="PLA Plastic"
-    data-item-description="Custom designed Instant GoWi.Fi Sign with NFC and QR-Code">
-        Buy NOW!
-</button>
-    </p>
-      </div>
-    </div>
-</div>
-
-
-
-
-<div class="container">
+  </header>
+  <ul class="container content">
     
-    <div class="row">
-      <div class="col-sm-12">
-        
-        
-        
+      <li><a href="http://www.gowi.fi/">GoWi.Fi is the easiest way to access a WI-FI hot spot</a>
 
-      </div>
-      
-    </div>
+</li>
 
-  </div>
+    
+  </ul>
+  
 
+</div>
       
 <footer class="footer hidden-print">
   <div class="container">
