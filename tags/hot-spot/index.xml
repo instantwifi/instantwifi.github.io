@@ -24,8 +24,9 @@
         &lt;h1&gt;&lt;span style=&#34;color:#fff&#34;&gt;The easiest way to access Wi-Fi&lt;/span&gt;&lt;/h1&gt;
     &lt;p class=&#34;lead&#34; style=&#34;color:#fff&#34;&gt;
       With GoWi.Fi, your user&#39;s mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.&lt;/p&gt;
+
     &lt;p&gt;&lt;button
-class=&#34;btn btn-success btn-lg&#34;
+class=&#34;btn btn-success btn-lg snipcart-add-item&#34;
     data-item-id=&#34;gowifisign&#34;
     data-item-name=&#34;GoWi.Fi Sign&#34;
     data-item-price=&#34;35.00&#34;
