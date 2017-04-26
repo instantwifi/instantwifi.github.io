@@ -36,7 +36,7 @@
   </url>
   
   <url>
-    <loc>http://www.gowi.fi/tags/one/</loc>
+    <loc>http://www.gowi.fi/tags/nfc/</loc>
     <lastmod>2017-04-26T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -47,25 +47,19 @@
   </url>
   
   <url>
-    <loc>http://www.gowi.fi/topics/topic-1/</loc>
-    <lastmod>2017-04-26T21:39:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.gowi.fi/topics/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gowi.fi/tags/two/</loc>
+    <loc>http://www.gowi.fi/tags/wi-fi/</loc>
     <lastmod>2017-04-26T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.gowi.fi/tags/wi-fi/</loc>
-    <lastmod>2017-04-01T16:31:25+00:00</lastmod>
+    <loc>http://www.gowi.fi/topics/wi-fi/</loc>
+    <lastmod>2017-04-26T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
