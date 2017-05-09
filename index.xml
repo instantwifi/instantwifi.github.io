@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GoWi.Fi is the easiest way to access a WI-FI hot spot on GoWi.Fi</title>
-    <link>http://www.gowi.fi/index.xml</link>
+    <link>https://www.gowi.fi/index.xml</link>
     <description>Recent content in GoWi.Fi is the easiest way to access a WI-FI hot spot on GoWi.Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -10,14 +10,14 @@
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
     <lastBuildDate>Sat, 01 Apr 2017 16:31:25 +0000</lastBuildDate>
-    <atom:link href="http://www.gowi.fi/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.gowi.fi/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title></title>
-      <link>http://www.gowi.fi/about/</link>
+      <link>https://www.gowi.fi/about/</link>
       <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://www.gowi.fi/about/</guid>
+      <guid>https://www.gowi.fi/about/</guid>
       <description>
 
 &lt;h1 id=&#34;gowi-fi&#34;&gt;GoWi.Fi&lt;/h1&gt;
