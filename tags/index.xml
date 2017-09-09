@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on GoWi.Fi</title>
+    <link>https://www.gowi.fi/tags/</link>
+    <description>Recent content in Tags on GoWi.Fi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
+    <lastBuildDate>Sat, 01 Apr 2017 16:31:25 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.gowi.fi/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Configure Internet</title>
+      <link>https://www.gowi.fi/tags/configure-internet/</link>
+      <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/configure-internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Configure Wi Fi</title>
+      <link>https://www.gowi.fi/tags/configure-wi-fi/</link>
+      <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/configure-wi-fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gowi.Fi</title>
+      <link>https://www.gowi.fi/tags/gowi.fi/</link>
+      <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/gowi.fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hot Spot</title>
+      <link>https://www.gowi.fi/tags/hot-spot/</link>
+      <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/hot-spot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nfc</title>
+      <link>https://www.gowi.fi/tags/nfc/</link>
+      <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/nfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wi Fi</title>
+      <link>https://www.gowi.fi/tags/wi-fi/</link>
+      <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/wi-fi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,14 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wi Fi on GoWi.Fi</title>
-    <link>https://www.gowi.fi/tags/wi-fi/index.xml</link>
+    <link>https://www.gowi.fi/tags/wi-fi/</link>
     <description>Recent content in Wi Fi on GoWi.Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <atom:link href="https://www.gowi.fi/tags/wi-fi/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Apr 2017 21:39:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.gowi.fi/tags/wi-fi/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title></title>
@@ -17,36 +20,11 @@
       <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;gowi-fi&#34;&gt;GoWi.Fi&lt;/h1&gt;
-
-&lt;h3 id=&#34;gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices&#34;&gt;GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user&amp;rsquo;s mobile devices.&lt;/h3&gt;
-
-&lt;p&gt;The user doesn&amp;rsquo;t have to enter any SSID and password which gives the following advantages:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Users can&amp;rsquo;t enter the wrong password&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You can use very long passwords which are safer&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway,&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;The board can be designed as you want&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;specification&#34;&gt;Specification&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Board size 25 x 25 x 10 cm&lt;/li&gt;
-&lt;li&gt;Color: white, blue, black, red, yellow, UV-changing (from white to red)&lt;/li&gt;
-&lt;li&gt;Material: PLA plastic, bio degradeble.&lt;/li&gt;
-&lt;li&gt;NFC chip: compatible with most devices.&lt;/li&gt;
-&lt;li&gt;QR Code for non-compatible devices such as iPhone.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>GoWi.Fi GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user&amp;rsquo;s mobile devices. The user doesn&amp;rsquo;t have to enter any SSID and password which gives the following advantages:
+ Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time,
+ Users can&amp;rsquo;t enter the wrong password
+ You can use very long passwords which are safer
+ You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway,</description>
     </item>
     
     <item>
@@ -55,40 +33,8 @@
       <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/</guid>
-      <description>&lt;div class=&#34;jumbotron-fluid&#34; style=&#34;background-image: url(&#39;https://res.cloudinary.com/dtnahfj7l/v1493071296/ek9sz8rzpa3wobbbpx4n&#39;) ;-webkit-background-size:cover;-moz-background-size:cover;-o-background-size:cover;background-size:cover;height:100vh;z-index:20; rgba(76, 175, 80, 0.3); overflow: hidden;background-position:0% 0% !important;&#34;&gt;
-
-&lt;div class=&#34;container&#34; style=&#34;padding-top: 100px;&#34;&gt;
-    &lt;div class=&#34;container&#34; style=&#34;max-width: 600px;  float: left; text-shadow: 2px 1px #000;&#34;&gt;
-        &lt;h1&gt;&lt;span style=&#34;color:#fff&#34;&gt;The easiest way to access Wi-Fi&lt;/span&gt;&lt;/h1&gt;
-    &lt;p class=&#34;lead&#34; style=&#34;color:#fff&#34;&gt;
-      With GoWi.Fi, your user&#39;s mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.&lt;/p&gt;
-
-    &lt;p&gt;&lt;button
-class=&#34;btn btn-success btn-lg snipcart-add-item&#34;
-    data-item-id=&#34;gowifisign&#34;
-    data-item-name=&#34;GoWi.Fi Sign&#34;
-    data-item-price=&#34;35.00&#34;
-    data-item-weight=&#34;100&#34;
-    data-item-url=&#34;/&#34;
-    data-item-stackable=&#34;false&#34;
-data-item-custom1-name=&#34;SSID&#34;
-    data-item-custom1-required=&#34;true&#34;
-data-item-custom2-name=&#34;Password&#34;
-    data-item-custom2-required=&#34;true&#34;
-data-item-custom3-name=&#34;Color&#34;
-data-item-custom3-options=&#34;White|Blue|Black|Red|Yellow|UV-changing&#34;
-    data-item-custom3-value=&#34;White&#34;
-data-item-custom4-name=&#34;Material&#34;
-data-item-custom4-options=&#34;PLA Plastic|Bio degradable&#34;
-    data-item-custom4-value=&#34;PLA Plastic&#34;
-    data-item-description=&#34;Custom designed Instant GoWi.Fi Sign with NFC and QR-Code&#34;&gt;
-        Buy NOW!
-&lt;/button&gt;
-    &lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-</description>
+      <description>The easiest way to access Wi-Fi With GoWi.Fi, your user&#39;s mobile devices will instantly get the Wi-Fi settings configured and you can use long and secure passwords without any trouble.
+Buy NOW!        GoWi.Fi GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user’s mobile devices. The user doesn’t have to enter any SSID and password which gives the following advantages:</description>
     </item>
     
   </channel>

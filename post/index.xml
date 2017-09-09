@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GoWi.Fi</title>
+    <link>https://www.gowi.fi/post/</link>
+    <description>Recent content in Posts on GoWi.Fi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
+    <lastBuildDate>Sat, 09 Sep 2017 18:33:51 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.gowi.fi/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>firstpost</title>
+      <link>https://www.gowi.fi/2017/09/09/firstpost/</link>
+      <pubDate>Sat, 09 Sep 2017 18:33:51 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/2017/09/09/firstpost/</guid>
+      <description>New frames for the gowifi signs are 3d printed. The latest one in yellow and white. </description>
+    </item>
+    
+  </channel>
+</rss>
