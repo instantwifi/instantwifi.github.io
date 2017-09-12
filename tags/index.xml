@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>E Shop</title>
+      <link>https://www.gowi.fi/tags/e-shop/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/e-shop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gowi.Fi</title>
       <link>https://www.gowi.fi/tags/gowi.fi/</link>
       <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
@@ -51,6 +60,24 @@
     </item>
     
     <item>
+      <title>Hotspot</title>
+      <link>https://www.gowi.fi/tags/hotspot/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/hotspot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Internet</title>
+      <link>https://www.gowi.fi/tags/internet/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/internet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nfc</title>
       <link>https://www.gowi.fi/tags/nfc/</link>
       <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
@@ -60,27 +87,18 @@
     </item>
     
     <item>
-      <title>One</title>
-      <link>https://www.gowi.fi/tags/one/</link>
+      <title>Videoproduction</title>
+      <link>https://www.gowi.fi/tags/videoproduction/</link>
       <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>https://www.gowi.fi/tags/one/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Two</title>
-      <link>https://www.gowi.fi/tags/two/</link>
-      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://www.gowi.fi/tags/two/</guid>
+      <guid>https://www.gowi.fi/tags/videoproduction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wi Fi</title>
       <link>https://www.gowi.fi/tags/wi-fi/</link>
-      <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/wi-fi/</guid>
       <description></description>

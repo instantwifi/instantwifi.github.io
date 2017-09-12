@@ -34,6 +34,12 @@
   </url>
   
   <url>
+    <loc>https://www.gowi.fi/tags/e-shop/</loc>
+    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/tags/gowi.fi/</loc>
     <lastmod>2017-04-01T16:31:25+00:00</lastmod>
     <priority>0</priority>
@@ -46,6 +52,18 @@
   </url>
   
   <url>
+    <loc>https://www.gowi.fi/tags/hotspot/</loc>
+    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gowi.fi/tags/internet/</loc>
+    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/topics/internet-wi-fi-hotspot/</loc>
     <lastmod>2017-09-12T19:05:44+00:00</lastmod>
     <priority>0</priority>
@@ -54,12 +72,6 @@
   <url>
     <loc>https://www.gowi.fi/tags/nfc/</loc>
     <lastmod>2017-04-26T21:39:04+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gowi.fi/tags/one/</loc>
-    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +94,7 @@
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/tags/two/</loc>
+    <loc>https://www.gowi.fi/tags/videoproduction/</loc>
     <lastmod>2017-09-12T19:05:44+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -95,7 +107,7 @@
   
   <url>
     <loc>https://www.gowi.fi/tags/wi-fi/</loc>
-    <lastmod>2017-04-26T21:39:04+00:00</lastmod>
+    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hotspot on GoWi.Fi</title>
+    <link>https://www.gowi.fi/tags/hotspot/</link>
+    <description>Recent content in Hotspot on GoWi.Fi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
+    <lastBuildDate>Tue, 12 Sep 2017 19:05:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.gowi.fi/tags/hotspot/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The doors are open</title>
+      <link>https://www.gowi.fi/2017/09/12/the-doors-are-open/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/2017/09/12/the-doors-are-open/</guid>
+      <description>The doors are open! We have been working around the clock to have our e-shop working, get an instruction video ready and build a nicer front page. We hope we have managed to do that, you will be our judge.
+Static website generators and Snipcart We built our website with our favorite website builder Appernetic.io that use the static website generator Hugo. To make the e-shop we have used Snipcart.</description>
+    </item>
+    
+  </channel>
+</rss>
