@@ -46,6 +46,12 @@
   </url>
   
   <url>
+    <loc>https://www.gowi.fi/topics/internet-wi-fi-hotspot/</loc>
+    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/tags/nfc/</loc>
     <lastmod>2017-04-26T21:39:04+00:00</lastmod>
     <priority>0</priority>
@@ -66,12 +72,6 @@
   <url>
     <loc>https://www.gowi.fi/tags/</loc>
     <lastmod>2017-04-01T16:31:25+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.gowi.fi/topics/topic-1/</loc>
-    <lastmod>2017-09-12T19:05:44+00:00</lastmod>
     <priority>0</priority>
   </url>
   
