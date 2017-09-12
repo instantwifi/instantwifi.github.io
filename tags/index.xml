@@ -60,6 +60,24 @@
     </item>
     
     <item>
+      <title>One</title>
+      <link>https://www.gowi.fi/tags/one/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>https://www.gowi.fi/tags/two/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wi Fi</title>
       <link>https://www.gowi.fi/tags/wi-fi/</link>
       <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>

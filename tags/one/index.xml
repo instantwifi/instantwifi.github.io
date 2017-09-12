@@ -2,44 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>One on GoWi.Fi</title>
-    <link>http://www.gowi.fi/tags/one/index.xml</link>
+    <link>https://www.gowi.fi/tags/one/</link>
     <description>Recent content in One on GoWi.Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <atom:link href="http://www.gowi.fi/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Sep 2017 19:05:44 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.gowi.fi/tags/one/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>about</title>
-      <link>http://www.gowi.fi/about/</link>
-      <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
+      <title>the doors are open</title>
+      <link>https://www.gowi.fi/2017/09/12/the-doors-are-open/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
-      <guid>http://www.gowi.fi/about/</guid>
-      <description>
-
-&lt;h1 id=&#34;gowi-fi&#34;&gt;GoWi.Fi&lt;/h1&gt;
-
-&lt;h3 id=&#34;gowi-fi-is-the-easiest-way-to-instantly-get-wi-fi-settings-configured-in-your-user-s-mobile-devices&#34;&gt;GoWI.FI is the easiest way to instantly get WI-FI settings configured in your user&amp;rsquo;s mobile devices.&lt;/h3&gt;
-
-&lt;p&gt;The user doesn&amp;rsquo;t have to enter any SSID and password which gives the following advantages:
- - Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time,
- - Users can&amp;rsquo;t enter the wrong password
- - You can use very long passwords which are safer
- - You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway,
- - The board can be designed as you want&lt;/p&gt;
-
-&lt;h2 id=&#34;specification&#34;&gt;Specification&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Board size 25 x 25 x 10 cm&lt;/li&gt;
-&lt;li&gt;Color: white, blue, black, red, yellow, UV-changing (from white to red)&lt;/li&gt;
-&lt;li&gt;Material: PLA plastic, bio degradeble.&lt;/li&gt;
-&lt;li&gt;NFC chip: compatible with most devices.&lt;/li&gt;
-&lt;li&gt;QR Code for non-compatible devices such as iPhone.&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>https://www.gowi.fi/2017/09/12/the-doors-are-open/</guid>
+      <description>The doors are open! We have been working around the clock to have our e-shop working, get an instruction video ready and build a nicer front page. We hope we have managed to do that, you will be our judge.
+Static website generators and Snipcart We built our website with our favorite website builder Appernetic that use the static website generator Hugo. To make the e-shop we have used Snipcart.</description>
     </item>
     
   </channel>

@@ -9,9 +9,19 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
+    <lastBuildDate>Tue, 12 Sep 2017 19:05:44 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gowi.fi/topics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Topic 1</title>
+      <link>https://www.gowi.fi/topics/topic-1/</link>
+      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/topics/topic-1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Wi Fi</title>
