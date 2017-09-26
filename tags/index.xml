@@ -9,10 +9,19 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 16:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 21:39:04 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gowi.fi/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Airbnb</title>
+      <link>https://www.gowi.fi/tags/airbnb/</link>
+      <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/airbnb/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Configure Internet</title>
@@ -80,7 +89,7 @@
     <item>
       <title>Nfc</title>
       <link>https://www.gowi.fi/tags/nfc/</link>
-      <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
+      <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/nfc/</guid>
       <description></description>
@@ -96,9 +105,18 @@
     </item>
     
     <item>
+      <title>Who Is Using Gowi.Fi</title>
+      <link>https://www.gowi.fi/tags/who-is-using-gowi.fi/</link>
+      <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/who-is-using-gowi.fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wi Fi</title>
       <link>https://www.gowi.fi/tags/wi-fi/</link>
-      <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
+      <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/wi-fi/</guid>
       <description></description>

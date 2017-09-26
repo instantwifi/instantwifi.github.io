@@ -9,10 +9,20 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <lastBuildDate>Wed, 26 Apr 2017 21:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Sep 2017 21:39:04 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gowi.fi/topics/wi-fi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://www.gowi.fi/who-is-using-gowifi/</link>
+      <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/who-is-using-gowifi/</guid>
+      <description>Who is using GoWi.Fi? AirBnB Hosts This product goes hand in glove with Airbnb and other private hotel solutions. Reviews (especially positive ones) are the easiest way to organically optimize your Airbnb ranking.
+Great for customer satisfaction and host ratings Guests rely mostly on the experience of previous users to know more about the hosts and their listings. Since Wi-Fi is the number one necessity for travelers these days our simple GoWiFi is a great product for customer satisfaction.</description>
+    </item>
     
     <item>
       <title></title>
