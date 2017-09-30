@@ -9,10 +9,21 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <lastBuildDate>Wed, 27 Sep 2017 21:39:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 15:11:24 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gowi.fi/tags/nfc/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Does the iPhone support NFC?</title>
+      <link>https://www.gowi.fi/2017/09/30/does-the-iphone-support-nfc/</link>
+      <pubDate>Sat, 30 Sep 2017 15:11:24 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/2017/09/30/does-the-iphone-support-nfc/</guid>
+      <description>At GoWi.Fi we use NFC in our GoWi.Fi signs and have been bravely waiting for Apple to join everyone else in supporting NFC tags since Google added NFC functionality to Android in late 2010.
+At WWDC 2017 in June Apple announced that iOS 11 would have support for reading NFC tags and NDEF messages.
+With Apple’s event on Sept. 12th, 2017 Apple has finally announced the new iPhone 8 and the iPhone X.</description>
+    </item>
     
     <item>
       <title></title>
