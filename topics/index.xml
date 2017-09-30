@@ -24,6 +24,15 @@
     </item>
     
     <item>
+      <title>Topic 1</title>
+      <link>https://www.gowi.fi/topics/topic-1/</link>
+      <pubDate>Sat, 30 Sep 2017 15:11:24 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/topics/topic-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Wi Fi</title>
       <link>https://www.gowi.fi/topics/wi-fi/</link>
       <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>

@@ -96,6 +96,24 @@
     </item>
     
     <item>
+      <title>One</title>
+      <link>https://www.gowi.fi/tags/one/</link>
+      <pubDate>Sat, 30 Sep 2017 15:11:24 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/one/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two</title>
+      <link>https://www.gowi.fi/tags/two/</link>
+      <pubDate>Sat, 30 Sep 2017 15:11:24 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/two/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Videoproduction</title>
       <link>https://www.gowi.fi/tags/videoproduction/</link>
       <pubDate>Tue, 12 Sep 2017 19:05:44 +0000</pubDate>
