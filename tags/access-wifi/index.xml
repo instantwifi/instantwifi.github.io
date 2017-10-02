@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Access Wifi on GoWi.Fi</title>
+    <link>https://www.gowi.fi/tags/access-wifi/</link>
+    <description>Recent content in Access Wifi on GoWi.Fi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>yourname@example.com (yourname)</managingEditor>
+    <webMaster>yourname@example.com (yourname)</webMaster>
+    <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
+    <lastBuildDate>Wed, 26 Apr 2017 21:39:04 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.gowi.fi/tags/access-wifi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://www.gowi.fi/about/</link>
+      <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/about/</guid>
+      <description>GoWi.Fi GoWI.FI is the easiest way to instantly configure Android settings and access Internet for your user&amp;rsquo;s devices. The user doesn&amp;rsquo;t have to enter any SSID and password when they configure WiFi which gives the following advantages:
+ Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time when they want to access WiFi, Users can&amp;rsquo;t enter the wrong password when they configure Android settings, You can use very long passwords which are safer, You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway, Users don&amp;rsquo;t risk getting added to a fake HotSpot/Access Point, The board can be designed as you want    Specification  Board size 74 x 134 x 9 mm Color: white, blue, black, red, yellow, UV-changing (from white to red) Material: PLA plastic, bio degradeble.</description>
+    </item>
+    
+  </channel>
+</rss>

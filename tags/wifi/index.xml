@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GoWi.Fi is the easiest way to access a WI-FI hot spot on GoWi.Fi</title>
-    <link>https://www.gowi.fi/</link>
-    <description>Recent content in GoWi.Fi is the easiest way to access a WI-FI hot spot on GoWi.Fi</description>
+    <title>Wifi on GoWi.Fi</title>
+    <link>https://www.gowi.fi/tags/wifi/</link>
+    <description>Recent content in Wifi on GoWi.Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <lastBuildDate>Sat, 01 Apr 2017 16:31:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 Sep 2017 15:11:24 +0000</lastBuildDate>
     
-	<atom:link href="https://www.gowi.fi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gowi.fi/tags/wifi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -46,15 +46,6 @@ Static website generators and Snipcart We built our website with our favorite we
     </item>
     
     <item>
-      <title>New 3D printed frames</title>
-      <link>https://www.gowi.fi/2017/09/09/new-3d-printed-frames/</link>
-      <pubDate>Sat, 09 Sep 2017 18:33:51 +0000</pubDate>
-      <author>yourname@example.com (yourname)</author>
-      <guid>https://www.gowi.fi/2017/09/09/new-3d-printed-frames/</guid>
-      <description>New frames for the gowifi signs are 3d printed. The latest one in yellow and white. Here is one in PLA wood plastic hanged on the wall. </description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://www.gowi.fi/about/</link>
       <pubDate>Wed, 26 Apr 2017 21:39:04 +0000</pubDate>
@@ -62,6 +53,15 @@ Static website generators and Snipcart We built our website with our favorite we
       <guid>https://www.gowi.fi/about/</guid>
       <description>GoWi.Fi GoWI.FI is the easiest way to instantly configure Android settings and access Internet for your user&amp;rsquo;s devices. The user doesn&amp;rsquo;t have to enter any SSID and password when they configure WiFi which gives the following advantages:
  Your staff don&amp;rsquo;t have to hand out passwords to visitors which saves time when they want to access WiFi, Users can&amp;rsquo;t enter the wrong password when they configure Android settings, You can use very long passwords which are safer, You don&amp;rsquo;t have to use WPS which shouldn&amp;rsquo;t be used anyway, Users don&amp;rsquo;t risk getting added to a fake HotSpot/Access Point, The board can be designed as you want    Specification  Board size 74 x 134 x 9 mm Color: white, blue, black, red, yellow, UV-changing (from white to red) Material: PLA plastic, bio degradeble.</description>
+    </item>
+    
+    <item>
+      <title>GoWi.Fi is the easiest way to access a WI-FI hot spot</title>
+      <link>https://www.gowi.fi/</link>
+      <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/</guid>
+      <description>bgvideo  The easiest way to access WiFi With GoWi.Fi, your user&#39;s mobile devices will instantly get the WiFi settings configured.-- Buy NOW!         GoWi.Fi GoWI.FI is the easiest way to instantly configure Android WIFI settings for your user’s mobile devices.  The user doesn’t have to configure Internet settings or enter any network name (SSID) and password which gives the following advantages:</description>
     </item>
     
   </channel>

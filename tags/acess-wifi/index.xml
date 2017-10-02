@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gowi.Fi on GoWi.Fi</title>
-    <link>https://www.gowi.fi/tags/gowi.fi/</link>
-    <description>Recent content in Gowi.Fi on GoWi.Fi</description>
+    <title>Acess Wifi on GoWi.Fi</title>
+    <link>https://www.gowi.fi/tags/acess-wifi/</link>
+    <description>Recent content in Acess Wifi on GoWi.Fi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>yourname@example.com (yourname)</managingEditor>
@@ -11,7 +11,7 @@
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
     <lastBuildDate>Sat, 01 Apr 2017 16:31:25 +0000</lastBuildDate>
     
-	<atom:link href="https://www.gowi.fi/tags/gowi.fi/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.gowi.fi/tags/acess-wifi/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

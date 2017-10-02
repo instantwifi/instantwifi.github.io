@@ -32,19 +32,31 @@
   </url>
   
   <url>
+    <loc>https://www.gowi.fi/tags/access-wifi/</loc>
+    <lastmod>2017-04-26T21:39:04+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.gowi.fi/tags/acess-wifi/</loc>
+    <lastmod>2017-04-01T16:31:25+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/tags/airbnb/</loc>
     <lastmod>2017-09-27T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/tags/configure-internet/</loc>
-    <lastmod>2017-04-01T16:31:25+00:00</lastmod>
+    <loc>https://www.gowi.fi/tags/configure-android/</loc>
+    <lastmod>2017-04-26T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/tags/configure-wi-fi/</loc>
+    <loc>https://www.gowi.fi/tags/configure-internet/</loc>
     <lastmod>2017-04-01T16:31:25+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -80,7 +92,7 @@
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/topics/internet-wi-fi-hotspot/</loc>
+    <loc>https://www.gowi.fi/topics/internet-wifi-hotspot/</loc>
     <lastmod>2017-09-12T19:05:44+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -105,7 +117,7 @@
   
   <url>
     <loc>https://www.gowi.fi/tags/</loc>
-    <lastmod>2017-09-27T21:39:04+00:00</lastmod>
+    <lastmod>2017-04-26T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -134,13 +146,13 @@
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/tags/wi-fi/</loc>
-    <lastmod>2017-09-27T21:39:04+00:00</lastmod>
+    <loc>https://www.gowi.fi/tags/wifi/</loc>
+    <lastmod>2017-09-30T15:11:24+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/topics/wi-fi/</loc>
+    <loc>https://www.gowi.fi/topics/wifi/</loc>
     <lastmod>2017-09-27T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
