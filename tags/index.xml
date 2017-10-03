@@ -35,7 +35,7 @@
     <item>
       <title>Airbnb</title>
       <link>https://www.gowi.fi/tags/airbnb/</link>
-      <pubDate>Wed, 27 Sep 2017 21:39:04 +0000</pubDate>
+      <pubDate>Tue, 03 Oct 2017 16:07:37 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/airbnb/</guid>
       <description></description>
@@ -74,6 +74,15 @@
       <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/gowi.fi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Network</title>
+      <link>https://www.gowi.fi/tags/guest-network/</link>
+      <pubDate>Tue, 03 Oct 2017 16:07:37 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/guest-network/</guid>
       <description></description>
     </item>
     
@@ -119,6 +128,15 @@
       <pubDate>Sat, 30 Sep 2017 15:11:24 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/nfc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secure Wifi</title>
+      <link>https://www.gowi.fi/tags/secure-wifi/</link>
+      <pubDate>Tue, 03 Oct 2017 16:07:37 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/secure-wifi/</guid>
       <description></description>
     </item>
     

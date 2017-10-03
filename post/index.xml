@@ -9,10 +9,20 @@
     <managingEditor>yourname@example.com (yourname)</managingEditor>
     <webMaster>yourname@example.com (yourname)</webMaster>
     <copyright>(c) 2017 Copyright GoWi.Fi</copyright>
-    <lastBuildDate>Sat, 30 Sep 2017 15:11:24 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2017 16:07:37 +0000</lastBuildDate>
     
 	<atom:link href="https://www.gowi.fi/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How to create a secure wireless network (WiFi) for your AirBnB guests</title>
+      <link>https://www.gowi.fi/2017/10/03/how-to-create-a-secure-wireless-network-wifi-for-your-airbnb-guests/</link>
+      <pubDate>Tue, 03 Oct 2017 16:07:37 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/2017/10/03/how-to-create-a-secure-wireless-network-wifi-for-your-airbnb-guests/</guid>
+      <description>If you are renting out your home on AirBnB, Booking.com etc or have a small business you may want to offer free WiFi access for clients. To do that in a secure way you don’t want to connect them to your own local network (LAN) where you have your computers, NAS backup and IoT devices connected.
+You want to have an isolated network that is only for your guests. In technical terms you have to create something that is called a VPN or VLAN - virtual private network or virtual local area network.</description>
+    </item>
     
     <item>
       <title>Does the iPhone support NFC?</title>
