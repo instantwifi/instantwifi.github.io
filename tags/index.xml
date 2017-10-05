@@ -71,7 +71,7 @@
     <item>
       <title>Gowi.Fi</title>
       <link>https://www.gowi.fi/tags/gowi.fi/</link>
-      <pubDate>Sat, 01 Apr 2017 16:31:25 +0000</pubDate>
+      <pubDate>Thu, 05 Oct 2017 14:17:37 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/gowi.fi/</guid>
       <description></description>
@@ -132,6 +132,15 @@
     </item>
     
     <item>
+      <title>Opensignal</title>
+      <link>https://www.gowi.fi/tags/opensignal/</link>
+      <pubDate>Thu, 05 Oct 2017 14:17:37 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/opensignal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Secure Wifi</title>
       <link>https://www.gowi.fi/tags/secure-wifi/</link>
       <pubDate>Tue, 03 Oct 2017 16:07:37 +0000</pubDate>
@@ -164,6 +173,15 @@
       <pubDate>Sat, 30 Sep 2017 15:11:24 +0000</pubDate>
       <author>yourname@example.com (yourname)</author>
       <guid>https://www.gowi.fi/tags/wifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wifimapper</title>
+      <link>https://www.gowi.fi/tags/wifimapper/</link>
+      <pubDate>Thu, 05 Oct 2017 14:17:37 +0000</pubDate>
+      <author>yourname@example.com (yourname)</author>
+      <guid>https://www.gowi.fi/tags/wifimapper/</guid>
       <description></description>
     </item>
     

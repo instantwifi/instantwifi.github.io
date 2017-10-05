@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.gowi.fi/2017/10/05/the-perfect-combination-wifimapper-and-gowi.fi/</loc>
+    <lastmod>2017-10-05T14:17:37+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/2017/10/03/how-to-create-a-secure-wireless-network-wifi-for-your-airbnb-guests/</loc>
     <lastmod>2017-10-03T16:07:37+00:00</lastmod>
   </url>
@@ -74,7 +79,7 @@
   
   <url>
     <loc>https://www.gowi.fi/tags/gowi.fi/</loc>
-    <lastmod>2017-04-01T16:31:25+00:00</lastmod>
+    <lastmod>2017-10-05T14:17:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -121,8 +126,14 @@
   </url>
   
   <url>
+    <loc>https://www.gowi.fi/tags/opensignal/</loc>
+    <lastmod>2017-10-05T14:17:37+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/post/</loc>
-    <lastmod>2017-10-03T16:07:37+00:00</lastmod>
+    <lastmod>2017-10-05T14:17:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,7 +151,7 @@
   
   <url>
     <loc>https://www.gowi.fi/topics/topic-1/</loc>
-    <lastmod>2017-10-03T16:07:37+00:00</lastmod>
+    <lastmod>2017-10-05T14:17:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -163,14 +174,20 @@
   </url>
   
   <url>
+    <loc>https://www.gowi.fi/tags/wifi/</loc>
+    <lastmod>2017-09-30T15:11:24+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.gowi.fi/topics/wifi/</loc>
     <lastmod>2017-09-27T21:39:04+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.gowi.fi/tags/wifi/</loc>
-    <lastmod>2017-09-30T15:11:24+00:00</lastmod>
+    <loc>https://www.gowi.fi/tags/wifimapper/</loc>
+    <lastmod>2017-10-05T14:17:37+00:00</lastmod>
     <priority>0</priority>
   </url>
   
